@@ -6,4 +6,6 @@
  * Time: 22:50
  */
 $a = 'hello word';
+
 var_dump($a);
+
