@@ -5,3 +5,5 @@
  * Date: 21/5/10
  * Time: 22:50
  */
+$a = 'hello word';
+var_dump($a);
